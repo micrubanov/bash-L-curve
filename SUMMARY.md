@@ -2,9 +2,9 @@
 
 * [README](README.md)
 * [The Shell](Shell.md)
-  * `sh`
-  * `bash`
-  * `zsh`
+  * [sh](sh.md)
+  * [bash](bash.md)
+  * [zsh](zsh.md)
 * [The Editor](Editor.md)
   * [ed](https://en.wikipedia.org/wiki/Ed_(text_editor))
     * [sed](https://en.wikipedia.org/wiki/Sed)
