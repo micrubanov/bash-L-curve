@@ -1,6 +1,6 @@
 # Bash is AWESOME!
 
-There is no need to improve `bash`. It's fine, the people are f@#$ked.
+There is no need to improve `bash`. It's fine, the people are **f@#$ked**.
 
 ## Bash CAN be safeifsh~
 
