@@ -6,7 +6,7 @@
   * [bash](bash.md)
   * [zsh](zsh.md)
 * [The Editor](Editor.md)
-  * [ed](https://en.wikipedia.org/wiki/Ed_(text_editor\))
+  * [ed](ed.md)
     * [sed](https://en.wikipedia.org/wiki/Sed)
     * [awk](https://en.wikipedia.org/wiki/AWK)
   * [nano](https://en.wikipedia.org/wiki/GNU_nano)
