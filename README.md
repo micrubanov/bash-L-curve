@@ -1,3 +1,4 @@
 # All of it is an a part and the whole
 
-[ENTER](SUMMARY.md)
+[Gitbook](https://fuzzybrain.gitbook.io/bash-l-curve/)
+[ENTER THE SOURCE](SUMMARY.md)
